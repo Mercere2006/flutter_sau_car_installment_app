@@ -1,16 +1,10 @@
-# flutter_sau_car_installment_app
+# Mobile Application with Flutter/Dart
 
-A new Flutter project.
+## แอปพลิเคชั่นคำนวณค่างวดรถ
 
-## Getting Started
+<kdb><img width="300" alt="localhost_52688_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/60bdd499-eda5-4923-9736-58a274360a81" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kdb><img width="1442" height="3202" alt="localhost_52688_(Samsung Galaxy S20 Ultra) (1)" src="https://github.com/user-attachments/assets/2cae897e-5e15-44ef-b1a8-0c0ea476a8d4" /></kdb>
+<br/><br/>
+<kdb><img width="1442" height="3202" alt="localhost_52688_(Samsung Galaxy S20 Ultra) (2)" src="https://github.com/user-attachments/assets/6ea5d3f2-3d24-4a89-bf6b-fe70a487da29" /></kdb>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
